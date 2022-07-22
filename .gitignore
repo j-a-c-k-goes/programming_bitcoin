@@ -1,0 +1,2 @@
+# ignore .json file with keys
+.keys.json
