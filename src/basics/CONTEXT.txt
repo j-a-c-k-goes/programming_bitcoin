@@ -1,0 +1,6 @@
+Programming bitcoin with Pythonn:
+
+• bitcoin tools library (raspberry pi)
+• generating private and public keys
+• creating simple btc address from private and publicly generated keys
+• using the blockchain library for simple chain data

@@ -1,0 +1,5 @@
+Eearning Bitcoin Programmatically:
+
+• accepting btc as payment on websites
+• building api-based microservices
+• exploring bitcoin trading bots

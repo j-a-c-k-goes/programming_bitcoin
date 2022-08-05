@@ -1,2 +1,5 @@
 # ignore .json file with keys
 .keys.json
+src/.keys.json
+tests/
+__init__.py
